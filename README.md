@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=Ingénieur+de+données;Data+Lakehouse+Architect;AWS+%C2%B7+dbt+%C2%B7+Iceberg+%C2%B7+Python;DataOps+%26+Pipeline+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=Ingénieur+de+données;Data+Lakehouse+Architect;AWS+%C2%B7+dbt+%C2%B7+Iceberg+%C2%B7+Python;DataOps+%26+Pipeline+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,6 +72,14 @@ Bilingual (FR/EN/ES) data engineer with a broadcast operations background at CBC
 ---
 
 ## 💼 Expérience | Experience
+
+### 🏛️ IT Technician — *Parliament of Canada, Ottawa*
+
+- Provided bilingual (FR/EN) hardware and software support across parliamentary offices, ensuring continuity of operations in a high-security government environment
+- Diagnosed and resolved endpoint, network, and peripheral issues for MPs, senators, and administrative staff under strict SLA and confidentiality requirements
+- Applied government IT security policies (GC security baseline, access controls) while delivering responsive, professional service-desk support in a dual-language workplace
+
+---
 
 ### 📡 Network Operations Centre (NOC) Technician — *CBC/Radio-Canada, Ottawa*
 
