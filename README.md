@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9C0&center=true&vCenter=true&width=650&lines=Ingénieur+de+données;Data+Lakehouse+Architect;AWS+%C2%B7+dbt+%C2%B7+Iceberg+%C2%B7+Python;DataOps+%26+Pipeline+Engineer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Ingénieur%20de%20données-00D9C0?style=for-the-badge&logoColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/Lakehouse%20Architect-00D9C0?style=for-the-badge&logoColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/AWS%20·%20dbt%20·%20Iceberg-00D9C0?style=for-the-badge&logoColor=0D1B2A" />
+  <img src="https://img.shields.io/badge/DataOps%20Engineer-00D9C0?style=for-the-badge&logoColor=0D1B2A" />
 </p>
 
 <p align="center">
